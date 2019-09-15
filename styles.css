@@ -1,0 +1,121 @@
+.top{
+    display: grid;
+    grid-template-columns: 140px 140px 140px 140px 140px;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    margin-top:  0px;
+    margin-left: 0px; 
+    background-color:red;
+}
+.apps{
+    display: grid;
+    height: 35px;
+    width: 35px;
+    margin-top:  5px;
+    margin-left: 5px; 
+    background-color:yellow;
+}
+.ks{
+    display: grid;
+    height: 35px;
+    width: 110px;
+    margin-top:  5px;
+    margin-left: 5px; 
+    background-color:yellow;
+}
+.serch{
+    display: grid;
+    height: 35px;
+    width: 180px;
+    margin-top:  5px;
+    margin-left: 10px; 
+    background-color:yellow;
+}
+.login{
+    display: grid;
+    height: 35px;
+    width: 200px;
+    margin-top:  5px;
+    margin-left: 250px; 
+    background-color:yellow;
+}
+.sacrifice{
+    display: grid;
+    grid-template-columns: 140px;
+    height: 50px;
+    width: 100%;
+    margin-top:  0px;
+    margin-left: 0px; 
+    background-color:red;
+}
+.emails{
+    display: grid;
+    grid-template-rows: 140px 140px 140px 140px 140px;
+    height: 800px;
+    width: 300px;
+    margin-top:  0px;
+    margin-left: 100px; 
+    background-color:red;
+}
+.mesages{
+    display: grid;
+    height: 100px;
+    width: 200px;
+    margin-top:  50px;
+    margin-left: 50px; 
+    background-color:yellow;
+}
+.options{
+    display: grid;
+    grid-template-columns: 40px 40px 40px 40px 40px;
+    height: 50px;
+    width: 400px;
+    margin-top:  -800px;
+    grid-gap: 55px; 
+    background-color:red;
+}
+.logos{
+    display: grid;
+    height: 30px;
+    width: 70px;
+    margin-top:  0px;
+    margin-left: 0px; 
+    background-color:yellow;
+}
+.options2{
+    display: grid;
+    grid-template-rows: 40px 40px 40px 40px 40px;
+    height: 400px;
+    width: 50px;
+    margin-top:  350px;
+    margin-left: 50px;
+    grid-gap: 55px; 
+    background-color:red;
+}
+.logos2{
+    display: grid;
+    height: 50px;
+    width: 50px;
+    margin-top:  10px;
+    margin-left: 10px; 
+    background-color:yellow;
+}
+.read{
+    display: grid;
+    grid-template-rows: 40px;
+    height: 790px;
+    width: 1859px;
+    margin-top:  -790px;
+    margin-left: 410px;
+    grid-gap: 55px; 
+    background-color:red;
+}
+.mato{
+    display: grid;
+    height: 500px;
+    width: 500px;
+    margin-top:  150px;
+    margin-left: 600px; 
+    background-color:yellow;
+}
